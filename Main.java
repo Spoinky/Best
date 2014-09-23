@@ -19,6 +19,7 @@ public class Main {
 		String nom = clavier.nextLine();
 		// Garder se qu'il a noter dans "nom"
 		
+		System.out.println("Yo");
 		System.out.println("Bonjour "+ nom);
 		System.out.print("Dans quel classe es-tu ?");
 		String classe = clavier.nextLine();
