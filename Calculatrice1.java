@@ -16,7 +16,7 @@ public class Calculatrice1 {
 		float x = clavier.nextFloat();
 		
 		System.out.print("Saisir le deuxieme nombre");
-		float y = clavier.nextFloat();
+		float y = clavier.nextFloat();;
 		
 		signe = sign.charAt(0);
 		
