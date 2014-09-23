@@ -15,7 +15,7 @@ public class Calculatrice1 {
 		System.out.print("Saisir le premier nombre");
 		float x = clavier.nextFloat();
 		
-		System.out.print("Saisir le deuxieme nombre");
+		System.out.print("Saisir le deuxieme nombre");;
 		float y = clavier.nextFloat();;
 		
 		signe = sign.charAt(0);

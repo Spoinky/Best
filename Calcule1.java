@@ -15,7 +15,7 @@ public class Calcule1 {
 		int a = 0;
 		int b = 0;
 		int c = 0;
-		System.out.print("\n a:" + a + " b:" + b + " c:" + c + ";");
+		System.out.print("\n a:" + a + " b:" + b + " c:" + c + ";");;;;
 		a = 5;
 		System.out.print("\n a:" + a + " b:" + b + " c:" + c + ";");
 		b = 3;
